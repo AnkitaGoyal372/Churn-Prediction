@@ -45,5 +45,5 @@ The performance of each model was evaluated using appropriate metrics such as ac
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/churn-prediction.git
+   git clone https://github.com/AnkitaGoyal372/Churn-Prediction.git
 
